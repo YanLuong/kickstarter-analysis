@@ -3,15 +3,6 @@
 This report provides insight on data covering several thousand crowdfunding projects through analysis and data visualisation.
 
 ---
+## Overview of Project
 
-## Introduction - 
-
-* purpose of the report and data being analysis - give background - and what else is covered in the report
-
-## Body -
-
-* Data
-* Analysis
-* Results
-
-## Conclusion/recommendation
+This project attempts to generate insights and trends from analysing several thousand crowdfunding projects on behalf of Louise, who is keen to start a number of fundraising campaign projects. The analysis will focus on attributes that lead to higher success rates in campaigns achieving their fundraising goals. This will allow Louise to optimise her future campaigns and increase their chances of success.
