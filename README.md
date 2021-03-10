@@ -21,13 +21,16 @@ To analyse how the launch dates impacted the campaign outcome, the data was form
 
 ##### Analysis
 
-
+When looking at the line chart below, we can see at face value campaigns that launched in May were significantly more successful which is closely followed by June and July. The number of failed campaigns throughout the year remained relatively stable which could mean other factors are involved as it does not appear to show a relationship between successful outcomes and failed outcomes.
 
 
 
 
 ![Outcome Vs Launch date chart](https://github.com/YanLuong/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
+##### Challenges
+
+When only looking at the line chart the story is quite clear in that May, June and July were the stronger performing months. However, the data does not take into account the success rate as a percentage of total campaigns launched.
 
 
 
