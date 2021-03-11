@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns.
 
-_This report provides insight on data covering several thousand crowdfunding projects through analysis and data visualisation.
+_This report provides insight on data covering several thousand crowdfunding projects through analysis and data visualisation._
 
 ---
 ## Overview of Project
