@@ -70,6 +70,9 @@ From the line chart below, we can observe that there is a relationship between o
 
 ![outcome vs goal chart](https://github.com/YanLuong/kickstarter-analysis/blob/main/Outcomes%20VS%20Goals.png)
 
+##### Challenges
+
+There were some challenges with using the countifs(). There were a number of syntax errors due to there being multiple criterias. This difficulty was overcome by breaking down the criteria in the countifs () statement to one at a time and adding a new criteria/condition after the first criteria was met and cross checked with the filters the raw data set.
 
 
 ### Challenges and Difficulties Encountered
