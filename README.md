@@ -41,7 +41,7 @@ Possible challenges are present in this analysis. For example, when only looking
 
 
 
-![Outcome vs Launch date table](https://github.com/YanLuong/kickstarter-analysis/blob/main/Outcomes%20VS%20Goals.png)
+![Outcome vs Launch date table](https://github.com/YanLuong/kickstarter-analysis/blob/main/Pivot_table_outcome_vsLaunchDate.png)
 
 
 
