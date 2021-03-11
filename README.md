@@ -56,7 +56,7 @@ Possible challenges are present in this analysis. For example, when only looking
 
 ##### Method
 
-A table was created in excel to populate the number of successful, failed and canceled outcomes using a  ***countifs()*** function. The countifs() function will only count if all the conditions are met. The conditions that had to be met before they were tallied to the relevant cell by goal amount were:
+A table was created in excel to populate the number of successful, failed and canceled outcomes using a  ***countifs()*** function. The countifs() function will only count if all the conditions are met. The conditions that have to be met before they are tallied to the relevant cell (by goal amount) are:
 
 - by outcome ("successful,"failed" and "canceled")
 - range based on grouped amounts
