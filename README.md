@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns.
 
-This report provides insight on data covering several thousand crowdfunding projects through analysis and data visualisation.
+_This report provides insight on data covering several thousand crowdfunding projects through analysis and data visualisation.
 
 ---
 ## Overview of Project
@@ -10,6 +10,10 @@ This project attempts to generate insights and trends from analysing several tho
 ### Purpose
 
 Louise would like to investigate whether certain factors determine or influence the outcome of campaigns. With this in mind, this report will analyse and discuss how campaign launch dates and their funding goals correlate to a campaign's potential success or failure.
+
+
+
+-------
 
 ## Analysis and Challenges
 
