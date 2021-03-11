@@ -36,7 +36,7 @@ When looking at the line chart below, we can see at face value campaigns that la
 
 
 
-Possible challenges are present in this analysis. For example, when only looking at the line chart the story is quite clear in that May, June and July were the successful performing months. However, the data does not take into account the success rate as a percentage of total campaigns launched. When taking into account the percentage of successful campaigns out of the total campaigns, it shows only a slight increase in the success rate instead (highlighted in yellow on table, below). It does show that between May and July, the highest number of campaigns were launched which has contributed directly to the higher number of successful campaigns based on launch date. 
+Possible challenges are present in this analysis. For example, when only looking at the line chart the story is quite clear in that May, June and July were the successful performing months. However, the data does not take into account the success rate as a percentage of total campaigns launched. When taking into account the percentage of successful campaigns out of the total campaigns, it shows only a slight increase in the success rate instead (refer to % successful column in table below). It does show that between May and July, the highest number of campaigns were launched which has contributed directly to the higher number of successful campaigns based on launch date. 
 
 
 
@@ -68,7 +68,7 @@ Once all data were counted using the countifs() statement, the percentages was c
 From the line chart below, we can observe that there is a relationship between outcome and goals up to the amount of 29,999. If the goals ranged from less than 1000 to 29,999, there is a clear trend where the lower the goal amount is the higher the percentage of successful campaigns. As you go into the higher ranges the data starts to get distorted as there are significantly far few campaigns launched with the goal amount of 30,000 upwards. Out of the 694 successful campaigns, 683 of the campaigns had a goal amount equal to or less than 29,999 which covers 98% of the data. The line chart only represents 2% of the number of successful campaigns after 30,000 goal onwards where we no longer see a trend.
 
 
-https://github.com/YanLuong/kickstarter-analysis/blob/main/Outcomes%20VS%20Goals.png
+![outcome vs goal chart]https://github.com/YanLuong/kickstarter-analysis/blob/main/Outcomes%20VS%20Goals.png
 
 
 
