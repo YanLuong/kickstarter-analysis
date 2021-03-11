@@ -72,7 +72,7 @@ From the line chart below, we can observe that there is a relationship between o
 
 ##### Challenges
 
-There were some challenges with using the countifs(). There were a number of syntax errors due to there being multiple criterias. This difficulty was overcome by breaking down the criteria in the countifs () statement to one at a time and adding a new criteria/condition after the first criteria was met and cross checked with the filters the raw data set.
+There were some challenges with using the countifs(). There were a number of syntax errors due to there being multiple criterias. This difficulty was overcome by breaking down the criteria in the countifs () statement to one at a time and adding a new criteria/condition after the first criteria was met and cross checked with filters manually selected from the raw data set.
 
 
 ### Challenges and Difficulties Encountered
@@ -81,9 +81,9 @@ There were some challenges with using the countifs(). There were a number of syn
 
 In the Outcomes based on Launch Date analysis, we can see that significantly more campaigns were launched between May and July which lead to more successful outcomes in that period as visualised in the line chart. If you take into account the % of successful campaigns launched between May and July we only see a slight increase in success rate so depending on the perspective, the line chart does not represent the full story. If Louise were to launch a campaign based on this finding, I would still recommend that the campaigns be launched in May as it had the highest success rate even if it was by a small margin compared to the other months.
 
-- What can you conclude about the Outcomes based on Goals?
+In the Outcomes based on Goals analysis, we can conclude that the line chart showed a consistent relationship between outcome and goal (up to 29,999). After the 30,000 goal mark, the data becomes skewed as number of campaigns launched with goal above 30,000 significantly drops where it no longer shows a trend. 
 
-- What are some limitations of this dataset?
+In both the data sets there are limitations in how the data is fairly visualised in the chart when we measure a campaigns success rate either as a percentage successful or the total number of successful campaigns.
 
-- What are some other possible tables and/or graphs that we could create?
+To gain further insight, I would recommend also analysing whether the length of a campaign has an impact on the outcome of a campaign.
 
