@@ -79,7 +79,7 @@ There were some challenges with using the countifs(). There were a number of syn
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+In the Outcomes based on Launch Date analysis, we can see that significantly more campaigns were launched between May and July which lead to more successful outcomes in that period as visualised in the line chart. If you take into account the % of successful campaigns launched between May and July we only see a slight increase in success rate so depending on the perspective, the line chart does not represent the full story. If Louise were to launch a campaign based on this finding, I would still recommend that the campaigns be launched in May as it had the highest success rate even if it was by a small margin compared to the other months.
 
 - What can you conclude about the Outcomes based on Goals?
 
