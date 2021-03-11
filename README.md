@@ -45,6 +45,7 @@ Possible challenges are present in this analysis. For example, when only looking
 
 
 
+-----
 
 
 ### Analysis of Outcomes Based on Goals
@@ -75,7 +76,7 @@ From the line chart below, we can observe that there is a relationship between o
 There were some challenges with using the countifs(). There were a number of syntax errors due to there being multiple criterias. This difficulty was overcome by breaking down the criteria in the countifs () statement to one at a time and adding a new criteria/condition after the first criteria was met and cross checked with filters manually selected from the raw data set.
 
 
-### Challenges and Difficulties Encountered
+-----
 
 ## Results
 
