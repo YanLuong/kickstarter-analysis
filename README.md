@@ -57,13 +57,18 @@ A table was created in excel to populate the number of successful, failed and ca
 - range based on grouped amounts
 - subcategory containing "plays" 
 
-Once all data were counted using the countifs() statement, the percentages was calculated for the successful, failed and canceled projects. Next, a line chart was created to visualise the relationship between goal amount ranges vs the percentage successful, failed and canceled.
+Once all data were counted using the countifs() statement, the percentages was calculated for the number of successful, failed and canceled projects. Next, a line chart was created to visualise the relationship between goal amount ranges vs the percentage successful, failed and canceled.
 
 
 
 
 
 ##### Analysis
+
+From the line chart below, we can observe that there is a relationship between outcome and goals up to the amount of 29,999. If the goals ranged from less than 1000 to 29,999, there is a clear trend where the lower the goal amount is the higher the percentage of successful campaigns. As you go into the higher ranges the data starts to get distorted as there are significantly far few campaigns launched with the goal amount of 30,000 upwards. Out of the 694 successful campaigns, 683 of the campaigns had a goal amount equal to or less than 29,999 which covers 98% of the data. The line chart only represents 2% of the number of successful campaigns after 30,000 goal onwards where we no longer see a trend.
+
+
+https://github.com/YanLuong/kickstarter-analysis/blob/main/Outcomes%20VS%20Goals.png
 
 
 
