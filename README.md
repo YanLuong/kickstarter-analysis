@@ -90,5 +90,5 @@ In the Outcomes based on Goals analysis, we can conclude that the line chart sho
 
 In both the data sets there are limitations in how the data is fairly visualised in the chart when we measure a campaigns success rate either as a percentage successful or the total number of successful campaigns.
 
-To gain further insight, I would recommend also analysing whether the length of a campaign has an impact on the outcome of a campaign.
+To gain further insight, I would recommend also analysing whether the length of a campaign has an impact on the outcome of a campaign. There were some indication that shorter campaigns could be more successful. 
 
